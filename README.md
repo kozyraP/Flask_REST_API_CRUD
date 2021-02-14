@@ -7,3 +7,7 @@ Aplikacja udostępniająca API dla podstawowych metod REST. Umożliwia zarządza
   - User will see 400 status code if cannot update employee
 - User can delete employee (by id)
   - User will see 400 status code if cannot delete employee
+  
+Aplikacja wykorzystuje bazę danych.
+
+
