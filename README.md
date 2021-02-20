@@ -66,5 +66,5 @@ https://flask-rest-api-crud-app.herokuapp.com
 
 ## Diagram architektury całej aplikacji
 
-![Diagram](./Untitled Diagram.svg)
+![Diagram](https://github.com/kozyraP/Flask_REST_API_CRUD/blob/main/Untitled%20Diagram.svg)
 
