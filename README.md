@@ -66,5 +66,5 @@ https://flask-rest-api-crud-app.herokuapp.com
 
 ## Diagram architektury całej aplikacji
 
-![Diagram](Untitled Diagram.svg)
+![Diagram](./Untitled Diagram.svg)
 
