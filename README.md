@@ -64,3 +64,7 @@ https://flask-rest-api-crud-app.herokuapp.com
 - Serwer Heroku
 - Serwer Azure (baza danych)
 
+## Diagram architektury całej aplikacji
+
+![Diagram](Untitled Diagram.svg)
+
