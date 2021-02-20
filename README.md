@@ -68,7 +68,11 @@ https://flask-rest-api-crud-app.herokuapp.com
 ## Klient aplikacji napisany w Tkinter
 
 https://github.com/kozyraP/REST_Client_GUI
+
 Prosty graficzny klient pozwalający na korzystanie z API do zarządzania pracownikami.
+
+Demo dostępne pod linkiem: 
+https://youtu.be/gJfn1MJdImo
 
 ## Diagram architektury całej aplikacji
 
