@@ -63,6 +63,12 @@ https://flask-rest-api-crud-app.herokuapp.com
 - Relacyjna baza danych
 - Serwer Heroku
 - Serwer Azure (baza danych)
+- Tkinter
+
+## Klient aplikacji napisany w Tkinter
+
+https://github.com/kozyraP/REST_Client_GUI
+Prosty graficzny klient pozwalający na korzystanie z API do zarządzania pracownikami.
 
 ## Diagram architektury całej aplikacji
 
